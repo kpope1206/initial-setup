@@ -17,8 +17,8 @@ This tutorial outlines the initial setup and installation for creating Virtual M
 <h2>List of Prerequisites</h2>
 
 - Create Resource Group 
-- Create Virtual Network
 - Create two Virtual Machines (VM1 [Windows], VM2 [Linux])
+- Pinging between VM's to check for connection
 
 <h2>Installation Steps</h2>
 
@@ -26,12 +26,12 @@ This tutorial outlines the initial setup and installation for creating Virtual M
 <img width="923" alt="Image" src="https://github.com/user-attachments/assets/00b7e65d-9b0b-406f-9ca2-00cb47f9d2da" />
 </p>
 <p>
-This is the initial setup page where you will configure your Resource Group and Virtual Network. Once you setup your resource Group, you will have to setup your Virtual Network inside of your RS. Once that is done you will have to set up your two VM's.
+This is the initial setup page where you will configure your Resource Group and Virtual Network. Once you setup your resource Group, you will have to setup your Virtual Network inside of your RS. Once that is done you will have to set up your two VM's. in this picture we see that the two Virtual Machines have been created. One Windows VM, and one Linux VM 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
