@@ -19,7 +19,7 @@ This tutorial outlines the initial setup and installation for creating Virtual M
 - Create Resource Group 
 - Create two Virtual Machines (VM1 [Windows], VM2 [Linux])
 - Open Remote Desktop
-- Pinging between VM's to check for connection
+- Pinging between VM's to check for connection in Wireshark
 
 <h2>Installation Steps</h2>
 
@@ -40,9 +40,9 @@ This image is shows how you would open your Remote Desktop using the Microsoft R
 <br />
 
 <p>
-
+<img width="915" alt="Image" src="https://github.com/user-attachments/assets/16143c44-ac9a-4e1b-aa96-780497a554b9" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this image we used Wireshark to see the traffic running is the background of our computers. Also, we have used Powershell to open up a command line and used the ping command to check for traffic between our two Virtual Machines. We are looking for requests and responses from one Machine to the other. If an era has occured it will read era, but im this diagram, we had a successful connecgion between our Windows and Linux VM's.
 </p>
 <br />
