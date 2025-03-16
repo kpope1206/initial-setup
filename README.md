@@ -27,7 +27,7 @@ This tutorial outlines the initial setup and installation for creating Virtual M
 <img width="923" alt="Image" src="https://github.com/user-attachments/assets/00b7e65d-9b0b-406f-9ca2-00cb47f9d2da" />
 </p>
 <p>
-This is the initial setup page where you will configure your Resource Group and Virtual Network. Once you setup your resource Group, you will have to setup your Virtual Network inside of your RS. Once that is done you will have to set up your two VM's. in this picture we see that the two Virtual Machines have been created. One Windows VM, and one Linux VM 
+This is the initial setup page where you will configure your Resource Group and Virtual Network. Once you setup your resource Group, you will have to setup your Virtual Network inside of your Resource Group. Once that is done you will have to set up your two VM's. In this picture we see that the two Virtual Machines have been created and ready for launch. One Windows VM, and one Linux VM.
 </p>
 <br />
 
@@ -35,12 +35,12 @@ This is the initial setup page where you will configure your Resource Group and 
 <img width="397" alt="Image" src="https://github.com/user-attachments/assets/8c407b10-7c85-4ecf-b399-67c74727bef0" />
 </p>
 <p>
-This image is shows how you would open your Remote Desktop using the Microsoft Remote Desktop app on MacOs. You will copy the public ip address from either of the virtual machines you have created and paste it in the PC Name: section. Then you can givr your PC a unique name if you want to (not needed). Then press enter. then you will be prompted to add the username and passwword tht you created when creating your VM to log into your Remote Desktop.
+This image is shows how you would open your Remote Desktop using the Microsoft Remote Desktop app on MacOs. You will copy the public ip address from either of the virtual machines you have created and paste it in the PC Name: section. Then you can give your PC a unique name if you want to (not needed). Then press enter. Then you will be prompted to add the username and password that you created when creating your VM to log into your Remote Desktop.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
