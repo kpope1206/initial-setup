@@ -18,6 +18,7 @@ This tutorial outlines the initial setup and installation for creating Virtual M
 
 - Create Resource Group 
 - Create two Virtual Machines (VM1 [Windows], VM2 [Linux])
+- Open Remote Desktop
 - Pinging between VM's to check for connection
 
 <h2>Installation Steps</h2>
@@ -31,10 +32,10 @@ This is the initial setup page where you will configure your Resource Group and 
 <br />
 
 <p>
-
+<img width="397" alt="Image" src="https://github.com/user-attachments/assets/8c407b10-7c85-4ecf-b399-67c74727bef0" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This image is shows how you would open your Remote Desktop using the Microsoft Remote Desktop app on MacOs. You will copy the public ip address from either of the virtual machines you have created and paste it in the PC Name: section. Then you can givr your PC a unique name if you want to (not needed). Then press enter. then you will be prompted to add the username and passwword tht you created when creating your VM to log into your Remote Desktop.
 </p>
 <br />
 
